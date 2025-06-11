@@ -1,5 +1,8 @@
 <h1 align="center">Hugo Andres Cabrera Lagos</h1>
 
+### 🚀 Quote of the Day  
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Learn%20-%20Practice%20-%20Improve%20-%20Repeat%20+🔥;CabHug+😼)
+
 - 🔭 I am passionate about mathematics, coding and the mysteries of the universe.
 - 🔰 Communication and support are a strong point I have.
 - 💻 I like to learn about new technologies and be constantly learning.
@@ -27,5 +30,14 @@
   </a>
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://www.ibm.com/topics/data-science">
+    <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+  <a href="https://www.w3schools.com/sql/">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
 </p>
