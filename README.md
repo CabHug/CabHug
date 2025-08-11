@@ -1,7 +1,7 @@
 <h1 align="center">Hugo Andres Cabrera Lagos</h1>
 
 ### 🚀 Quote of the Day  
-![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Learn%20-%20Practice%20-%20Improve%20-%20Repeat%20+🔥;CabHug+😼)
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Learn%20-%20Practice%20-%20Improve%20-%20Repeat%20+🔥;CALA+😼)
 
 - 🔭 I am passionate about mathematics, coding and the mysteries of the universe.
 - 🔰 Communication and support are a strong point I have.
